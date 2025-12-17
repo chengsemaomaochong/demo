@@ -1,5 +1,5 @@
 spring:
   application:
-    name: starter
+    name: demo
 server:
   port: 8081
